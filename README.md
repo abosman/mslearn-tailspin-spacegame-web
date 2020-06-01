@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/ankie/MSLearn/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/ankie/MSLearn/_build/latest?definitionId=14&branchName=master)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=abosman_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=abosman_mslearn-tailspin-spacegame-web)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
